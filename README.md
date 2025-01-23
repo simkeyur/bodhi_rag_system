@@ -16,5 +16,6 @@ Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! 
 4. Run the Streamlit app: `streamlit run welcome.py`
 
 ---
+This is a clone project created from this tutorial: https://jamwithai.substack.com/p/build-a-local-llm-based-rag-system
 
 Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community!
